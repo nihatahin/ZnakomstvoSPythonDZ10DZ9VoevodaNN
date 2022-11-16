@@ -1,0 +1,5 @@
+Choose operation
+1. /add - addition.
+2. /sub - subtraction.
+3. /mul - multiplication.
+4. /div - division.

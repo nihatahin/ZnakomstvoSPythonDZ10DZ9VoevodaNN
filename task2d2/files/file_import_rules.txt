@@ -1,0 +1,2 @@
+1. You can import data from the files of .md and .txt formats.
+2. It is cabable to see intire file format in /files/file_examples for both type extensions.

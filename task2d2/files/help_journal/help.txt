@@ -1,0 +1,7 @@
+Basic commands
+1. /show - show whole list of records.
+2. /add - add record.
+3. /expo - add existed records to file.
+4. /impo - add records from file.
+5. /exmp - send import and export file example
+6. /exit - finish program.
